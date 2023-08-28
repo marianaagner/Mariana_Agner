@@ -14,12 +14,7 @@ https://p5js.org/
 
 https://www.alura.com.br/
 
-![](https://media.giphy.com/media/xPYlrYkCu05iTkpsM2/giphy.gif)
 
-
-
-
-j
 
 
 
